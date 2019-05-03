@@ -522,7 +522,7 @@
         text-align: center;
     }
     .most_p_list {
-        display: inline-block;
+        display: inline-block; vertical-align: middle;
     }
     .most_p_list .media .media-body {
         text-align: left;

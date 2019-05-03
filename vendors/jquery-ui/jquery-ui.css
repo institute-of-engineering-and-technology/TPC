@@ -64,7 +64,7 @@
 /* Icons
 ----------------------------------*/
 .ui-icon {
-	display: inline-block;
+	display: inline-block; vertical-align: middle;
 	vertical-align: middle;
 	margin-top: -.25em;
 	position: relative;
@@ -165,7 +165,7 @@
 }
 .ui-button {
 	padding: .4em 1em;
-	display: inline-block;
+	display: inline-block; vertical-align: middle;
 	position: relative;
 	line-height: normal;
 	margin-right: .1em;
@@ -237,7 +237,7 @@ button.ui-button::-moz-focus-inner {
 }
 .ui-controlgroup {
 	vertical-align: middle;
-	display: inline-block;
+	display: inline-block; vertical-align: middle;
 }
 .ui-controlgroup > .ui-controlgroup-item {
 	float: left;
@@ -790,7 +790,7 @@ button.ui-button::-moz-focus-inner {
 }
 .ui-spinner {
 	position: relative;
-	display: inline-block;
+	display: inline-block; vertical-align: middle;
 	overflow: hidden;
 	padding: 0;
 	vertical-align: middle;
