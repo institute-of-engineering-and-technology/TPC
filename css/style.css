@@ -48,7 +48,7 @@ body {
   font-family: "Source Sans Pro", sans-serif;
   font-weight: normal;
   color: #777777; }
-@media (max-width: 767px){
+@media (max-width: 992px){
       .navbar-light .navbar-brand{
   width: 100%;
 }
